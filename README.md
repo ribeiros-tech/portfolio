@@ -33,9 +33,8 @@ Demonstração da comunicação entre dispositivos e funcionamento de redes.
 ### 🔹 Endereçamento IP
 Planejamento de redes com divisão de sub-redes (subnetting).
 
-### 🔹 Monitoramento com Zabbix
-Monitoramento de CPU, memória e rede com dashboards no Grafana.
-
+### 🔹 Cybersecurity Portfolio 
+    Portfólio prático e estratégico em Segurança da Informação, com foco em ambientes corporativos, governança, monitoramento e resposta a incidentes.
 ---
 
 ## Portfólio Online
