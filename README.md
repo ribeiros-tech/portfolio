@@ -51,8 +51,6 @@ Busco minha primeira oportunidade na área de TI, onde eu possa aplicar meus con
 ## Portfólio Online
 
 👉 https://ribeiros-tech.github.io/portfolio
-👉 
-👉 
 
 ---
 ## Objetivo
