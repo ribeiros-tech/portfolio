@@ -1,6 +1,9 @@
-# Vitória Ribeiro
+# Olá, eu sou a Vitória Ribeiro
 
-Suporte Técnico | Redes | Segurança da Informação
+💻 Suporte Técnico | Redes | Monitoramento  
+🔐 Estudando Segurança da Informação  
+📚 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Em busca da minha primeira oportunidade em TI  
 
 ---
 
