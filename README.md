@@ -28,13 +28,13 @@ Busco minha primeira oportunidade na área de TI, onde eu possa aplicar meus con
 ## Projetos
 
 ### 🔹 Simulação de Redes
-Demonstração da comunicação entre dispositivos e funcionamento de redes.
+- Demonstração da comunicação entre dispositivos e funcionamento de redes.
 
 ### 🔹 Endereçamento IP
-Planejamento de redes com divisão de sub-redes (subnetting).
+- Planejamento de redes com divisão de sub-redes (subnetting).
 
 ### 🔹 Cybersecurity Portfolio 
-    Portfólio prático e estratégico em Segurança da Informação, com foco em ambientes corporativos, governança, monitoramento e resposta a incidentes.
+- Portfólio prático e estratégico em Segurança da Informação, com foco em ambientes corporativos, governança, monitoramento e resposta a incidentes.
 ---
 
 ## Portfólio Online
@@ -45,7 +45,7 @@ Planejamento de redes com divisão de sub-redes (subnetting).
 
 ## Contato
 
-- Email: seuemail@gmail.com  
+- Email: ribeirossvitoria@gmail.com
 - GitHub: https://github.com/ribeiros-tech  
 - LinkedIn: www.linkedin.com/in/vitória-ribeiro-828905360
 - Whatsapp:(92)99138-3582
