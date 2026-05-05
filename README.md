@@ -51,6 +51,20 @@ Busco minha primeira oportunidade na área de TI, onde eu possa aplicar meus con
 ## Portfólio Online
 
 👉 https://ribeiros-tech.github.io/portfolio
+👉 
+👉 
+
+---
+## Objetivo
+
+Conseguir uma oportunidade como:
+- Suporte Técnico
+- Help Desk
+- NOC
+- Estágio em TI
+- Segurança da Informação
+
+E evoluir futuramente para a área de Segurança da Informação 🔐
 
 ---
 
