@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portfólio profissional de Vitória Ribeiro, estudante de Análise e Desenvolvimento de Sistemas, com conhecimentos em programação, desenvolvimento web, segurança, bancos de dados e tecnologia.">
+  <meta name="keywords" content="Vitória Ribeiro, portfólio, tecnologia, desenvolvimento web, segurança da informação, banco de dados, ADS">
+  <meta name="author" content="Vitória Ribeiro">
+  <meta name="theme-color" content="#2563eb">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Vitória Ribeiro | Tecnologia & Desenvolvimento">
+  <meta property="og:description" content="Portfólio profissional de Vitória Ribeiro, estudante de Análise e Desenvolvimento de Sistemas.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+
+  <title>Vitória Ribeiro | Tecnologia & Desenvolvimento</title>
+
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='28' font-size='28'>⚡</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="header" id="header">
+    <div class="header__container">
+      <a href="#inicio" class="header__logo" aria-label="Voltar ao início">VITÓRIA RIBEIRO</a>
+      <nav class="header__nav" id="mainNav" aria-label="Navegação principal">
+        <ul class="header__menu">
+          <li><a href="#inicio" class="header__link active">Início</a></li>
+          <li><a href="#sobre" class="header__link">Sobre</a></li>
+          <li><a href="#conhecimentos" class="header__link">Conhecimentos</a></li>
+          <li><a href="#projetos" class="header__link">Projetos</a></li>
+          <li><a href="#jornada" class="header__link">Jornada</a></li>
+          <li><a href="#contato" class="header__link">Contato</a></li>
+        </ul>
+      </nav>
+      <div class="header__actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Alternar tema" type="button">
+          <span class="theme-toggle__icon" aria-hidden="true">☀</span>
+          <span class="theme-toggle__label">Light</span>
+        </button>
+        <button class="header__hamburger" id="hamburger" aria-label="Abrir menu" aria-expanded="false" type="button">
+          <span class="header__hamburger-line"></span>
+          <span class="header__hamburger-line"></span>
+          <span class="header__hamburger-line"></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- MOBILE OVERLAY -->
+  <div class="mobile-overlay" id="mobileOverlay" aria-hidden="true"></div>
+
+  <main>
+
+    <!-- HERO -->
+    <section class="hero" id="inicio">
+      <div class="hero__container">
+        <div class="hero__content">
+          <p class="hero__greeting reveal">Olá, eu sou</p>
+          <h1 class="hero__name reveal">VITÓRIA<br>RIBEIRO</h1>
+          <p class="hero__subtitle reveal">Estudante de Análise e Desenvolvimento de Sistemas e profissional de tecnologia em formação.</p>
+          <p class="hero__description reveal">Construindo minha trajetória em Tecnologia da Informação através de programação, desenvolvimento web, segurança, bancos de dados, sistemas e infraestrutura.</p>
+          <div class="hero__buttons reveal">
+            <a href="#projetos" class="btn btn--primary">Ver meus projetos</a>
+            <a href="#jornada" class="btn btn--secondary">Conhecer minha trajetória</a>
+          </div>
+        </div>
+        <div class="hero__visual reveal" aria-hidden="true">
+          <div class="hero__grid">
+            <div class="hero__grid-line hero__grid-line--1"></div>
+            <div class="hero__grid-line hero__grid-line--2"></div>
+            <div class="hero__grid-line hero__grid-line--3"></div>
+            <div class="hero__grid-line hero__grid-line--4"></div>
+            <div class="hero__grid-dot hero__grid-dot--1"></div>
+            <div class="hero__grid-dot hero__grid-dot--2"></div>
+            <div class="hero__grid-dot hero__grid-dot--3"></div>
+            <div class="hero__code">
+              <span class="hero__code-line"><span class="code-keyword">const</span> <span class="code-var">carreira</span> = {</span>
+              <span class="hero__code-line">&nbsp;&nbsp;area: <span class="code-string">"TI"</span>,</span>
+              <span class="hero__code-line">&nbsp;&nbsp;foco: [<span class="code-string">"dev"</span>, <span class="code-string">"segurança"</span>],</span>
+              <span class="hero__code-line">&nbsp;&nbsp;status: <span class="code-string">"em evolução"</span></span>
+              <span class="hero__code-line">};</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SOBRE -->
+    <section class="section sobre" id="sobre">
+      <div class="section__container">
+        <h2 class="section__title reveal">Sobre mim</h2>
+        <div class="sobre__grid">
+          <div class="sobre__text reveal">
+            <p>Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse genuíno por tecnologia e tudo o que ela pode proporcionar. Minha jornada na área começou pela curiosidade de entender como as coisas funcionam por trás das telas, e hoje é movida pela vontade de construir soluções reais.</p>
+            <p>Meu foco está em programação, desenvolvimento web, segurança da informação, bancos de dados, sistemas e infraestrutura. Acredito que a combinação desses conhecimentos é essencial para atuar de forma completa na área de TI.</p>
+            <p>Sou uma pessoa que valoriza o aprendizado contínuo. Cada projeto, cada desafio e cada linha de código são oportunidades para evoluir. Estou em constante busca por conhecimento, sempre buscando melhorar minhas habilidades e contribuir com projetos que façam a diferença.</p>
+          </div>
+          <div class="sobre__highlights reveal">
+            <div class="sobre__highlight">
+              <div class="sobre__highlight-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 18l6-6-6-6"/><path d="M8 6l-6 6 6 6"/></svg>
+              </div>
+              <div>
+                <h3>Programação</h3>
+                <p>Desenvolvimento de soluções com diversas linguagens e frameworks</p>
+              </div>
+            </div>
+            <div class="sobre__highlight">
+              <div class="sobre__highlight-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0110 0v4"/></svg>
+              </div>
+              <div>
+                <h3>Segurança</h3>
+                <p>Fundamentos em segurança da informação e práticas defensivas</p>
+              </div>
+            </div>
+            <div class="sobre__highlight">
+              <div class="sobre__highlight-icon" aria-hidden="true">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg>
+              </div>
+              <div>
+                <h3>Banco de Dados</h3>
+                <p>Modelagem, consultas e gerenciamento de dados</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FORMAÇÃO -->
+    <section class="section formacao" id="formacao">
+      <div class="section__container">
+        <h2 class="section__title reveal">Formação</h2>
+        <div class="formacao__card reveal">
+          <div class="formacao__card-header">
+            <div class="formacao__card-icon" aria-hidden="true">
+              <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></svg>
+            </div>
+            <div>
+              <h3 class="formacao__card-title">Análise e Desenvolvimento de Sistemas</h3>
+              <span class="formacao__card-status">Graduação em andamento</span>
+            </div>
+          </div>
+          <p class="formacao__card-desc">Formação voltada para desenvolvimento de software, programação, bancos de dados, sistemas e fundamentos da Tecnologia da Informação.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONHECIMENTOS -->
+    <section class="section conhecimentos" id="conhecimentos">
+      <div class="section__container">
+        <h2 class="section__title reveal">Conhecimentos</h2>
+        <div class="conhecimentos__grid">
+
+          <div class="conhecimentos__card reveal">
+            <div class="conhecimentos__card-header">
+              <svg class="conhecimentos__card-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+              <h3>Desenvolvimento</h3>
+            </div>
+            <div class="conhecimentos__tags">
+              <span class="tag">HTML</span>
+              <span class="tag">CSS</span>
+              <span class="tag">JavaScript</span>
+              <span class="tag">TypeScript</span>
+              <span class="tag">React</span>
+              <span class="tag">Next.js</span>
+              <span class="tag">PHP</span>
+              <span class="tag">Python</span>
+              <span class="tag">C</span>
+            </div>
+          </div>
+
+          <div class="conhecimentos__card reveal">
+            <div class="conhecimentos__card-header">
+              <svg class="conhecimentos__card-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg>
+              <h3>Banco de Dados</h3>
+            </div>
+            <div class="conhecimentos__tags">
+              <span class="tag">SQL</span>
+              <span class="tag">MySQL</span>
+              <span class="tag">PostgreSQL</span>
+              <span class="tag">MariaDB</span>
+              <span class="tag">CRUD</span>
+              <span class="tag">Modelagem de dados</span>
+            </div>
+          </div>
+
+          <div class="conhecimentos__card reveal">
+            <div class="conhecimentos__card-header">
+              <svg class="conhecimentos__card-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0110 0v4"/></svg>
+              <h3>Segurança</h3>
+            </div>
+            <div class="conhecimentos__tags">
+              <span class="tag">Segurança da Informação</span>
+              <span class="tag">OWASP Top 10</span>
+              <span class="tag">Pentest Web</span>
+              <span class="tag">Nmap</span>
+              <span class="tag">Burp Suite</span>
+              <span class="tag">Wireshark</span>
+              <span class="tag">Nessus/OpenVAS</span>
+              <span class="tag">CVE</span>
+              <span class="tag">CVSS</span>
+            </div>
+          </div>
+
+          <div class="conhecimentos__card reveal">
+            <div class="conhecimentos__card-header">
+              <svg class="conhecimentos__card-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+              <h3>Sistemas e Redes</h3>
+            </div>
+            <div class="conhecimentos__tags">
+              <span class="tag">Windows</span>
+              <span class="tag">Linux</span>
+              <span class="tag">TCP/IP</span>
+              <span class="tag">DNS</span>
+              <span class="tag">HTTP/HTTPS</span>
+              <span class="tag">VPN</span>
+              <span class="tag">Bash</span>
+              <span class="tag">PowerShell</span>
+            </div>
+          </div>
+
+          <div class="conhecimentos__card reveal">
+            <div class="conhecimentos__card-header">
+              <svg class="conhecimentos__card-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94l-6.91 6.91a2.12 2.12 0 01-3-3l6.91-6.91a6 6 0 017.94-7.94l-3.76 3.76z"/></svg>
+              <h3>Ferramentas</h3>
+            </div>
+            <div class="conhecimentos__tags">
+              <span class="tag">Git</span>
+              <span class="tag">GitHub</span>
+              <span class="tag">VS Code</span>
+              <span class="tag">XAMPP</span>
+              <span class="tag">pgAdmin</span>
+            </div>
+          </div>
+
+          <div class="conhecimentos__card reveal">
+            <div class="conhecimentos__card-header">
+              <svg class="conhecimentos__card-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17.5 19H9a7 7 0 116.71-9h1.79a4.5 4.5 0 110 9z"/></svg>
+              <h3>Infraestrutura</h3>
+            </div>
+            <div class="conhecimentos__tags">
+              <span class="tag">Redes</span>
+              <span class="tag">Virtualização</span>
+              <span class="tag">Infraestrutura</span>
+              <span class="tag">Fundamentos de Cloud</span>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- PROJETOS -->
+    <section class="section projetos" id="projetos">
+      <div class="section__container">
+        <h2 class="section__title reveal">Projetos</h2>
+        <div class="projetos__filters reveal" role="tablist" aria-label="Filtrar projetos">
+          <button class="projetos__filter active" data-filter="todos" role="tab" aria-selected="true" type="button">Todos</button>
+          <button class="projetos__filter" data-filter="programacao" role="tab" aria-selected="false" type="button">Programação</button>
+          <button class="projetos__filter" data-filter="seguranca" role="tab" aria-selected="false" type="button">Segurança</button>
+          <button class="projetos__filter" data-filter="redes" role="tab" aria-selected="false" type="button">Redes</button>
+        </div>
+        <div class="projetos__grid" id="projetosGrid">
+
+          <article class="projetos__card reveal" data-category="programacao redes">
+            <div class="projetos__card-image">
+              <div class="projetos__card-placeholder" aria-hidden="true">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg>
+              </div>
+            </div>
+            <div class="projetos__card-body">
+              <h3 class="projetos__card-title">Projeto Endereçamento IP</h3>
+              <p class="projetos__card-desc">Projeto de estudo envolvendo endereçamento IP, sub-redeção e configuração de redes.</p>
+              <div class="projetos__card-tags">
+                <span class="tag tag--small">Redes</span>
+                <span class="tag tag--small">IP</span>
+                <span class="tag tag--small">Sub-redeção</span>
+              </div>
+              <div class="projetos__card-links">
+                <a href="https://github.com/ribeiros-tech/projeto-enderecamento-ip" class="projetos__card-link" target="_blank" rel="noopener noreferrer" aria-label="Ver repositório no GitHub">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0020 4.77 5.07 5.07 0 0019.91 1S18.73.65 16 2.48a13.38 13.38 0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 005 4.77a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 009 18.13V22"/></svg>
+                  GitHub
+                </a>
+              </div>
+            </div>
+          </article>
+
+          <article class="projetos__card reveal" data-category="seguranca">
+            <div class="projetos__card-image">
+              <div class="projetos__card-placeholder" aria-hidden="true">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+              </div>
+            </div>
+            <div class="projetos__card-body">
+              <h3 class="projetos__card-title">Cybersecurity Portfolio</h3>
+              <p class="projetos__card-desc">Portfólio de estudos e projetos na área de cibersegurança.</p>
+              <div class="projetos__card-tags">
+                <span class="tag tag--small">Segurança</span>
+                <span class="tag tag--small">Cibersegurança</span>
+              </div>
+              <div class="projetos__card-links">
+                <a href="https://github.com/ribeiros-tech/cybersecurity-portfolio" class="projetos__card-link" target="_blank" rel="noopener noreferrer" aria-label="Ver repositório no GitHub">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0020 4.77 5.07 5.07 0 0019.91 1S18.73.65 16 2.48a13.38 13.38 0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 005 4.77a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 009 18.13V22"/></svg>
+                  GitHub
+                </a>
+              </div>
+            </div>
+          </article>
+
+          <article class="projetos__card reveal" data-category="programacao redes">
+            <div class="projetos__card-image">
+              <div class="projetos__card-placeholder" aria-hidden="true">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+              </div>
+            </div>
+            <div class="projetos__card-body">
+              <h3 class="projetos__card-title">Simulação Subcamada MAC</h3>
+              <p class="projetos__card-desc">Simulação da subcamada de controle de acesso ao meio em redes de computadores.</p>
+              <div class="projetos__card-tags">
+                <span class="tag tag--small">Redes</span>
+                <span class="tag tag--small">MAC</span>
+                <span class="tag tag--small">Simulação</span>
+              </div>
+              <div class="projetos__card-links">
+                <a href="https://github.com/ribeiros-tech/simulacao-subcamada-mac" class="projetos__card-link" target="_blank" rel="noopener noreferrer" aria-label="Ver repositório no GitHub">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0020 4.77 5.07 5.07 0 0019.91 1S18.73.65 16 2.48a13.38 13.38 0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 005 4.77a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 009 18.13V22"/></svg>
+                  GitHub
+                </a>
+              </div>
+            </div>
+          </article>
+
+          <article class="projetos__card reveal" data-category="programacao redes">
+            <div class="projetos__card-image">
+              <div class="projetos__card-placeholder" aria-hidden="true">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15A2.5 2.5 0 016.5 2z"/></svg>
+              </div>
+            </div>
+            <div class="projetos__card-body">
+              <h3 class="projetos__card-title">Camada de Enlace - Simulação</h3>
+              <p class="projetos__card-desc">Simulação de protocolos e funcionamento da camada de enlace de dados.</p>
+              <div class="projetos__card-tags">
+                <span class="tag tag--small">Redes</span>
+                <span class="tag tag--small">Camada de Enlace</span>
+                <span class="tag tag--small">Simulação</span>
+              </div>
+              <div class="projetos__card-links">
+                <a href="https://github.com/ribeiros-tech/camada-enlace-simulacao" class="projetos__card-link" target="_blank" rel="noopener noreferrer" aria-label="Ver repositório no GitHub">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0020 4.77 5.07 5.07 0 0019.91 1S18.73.65 16 2.48a13.38 13.38 0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 005 4.77a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 009 18.13V22"/></svg>
+                  GitHub
+                </a>
+              </div>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- JORNADA -->
+    <section class="section jornada" id="jornada">
+      <div class="section__container">
+        <h2 class="section__title reveal">Jornada</h2>
+        <div class="jornada__timeline">
+          <div class="jornada__line" aria-hidden="true"></div>
+
+          <div class="jornada__item reveal">
+            <div class="jornada__dot" aria-hidden="true"></div>
+            <div class="jornada__content">
+              <h3>Formação em ADS</h3>
+              <p>Início da graduação em Análise e Desenvolvimento de Sistemas</p>
+            </div>
+          </div>
+
+          <div class="jornada__item reveal">
+            <div class="jornada__dot" aria-hidden="true"></div>
+            <div class="jornada__content">
+              <h3>Programação</h3>
+              <p>Primeiros passos com lógica, C, Python e fundamentos</p>
+            </div>
+          </div>
+
+          <div class="jornada__item reveal">
+            <div class="jornada__dot" aria-hidden="true"></div>
+            <div class="jornada__content">
+              <h3>Desenvolvimento Web</h3>
+              <p>HTML, CSS, JavaScript, PHP e frameworks front-end</p>
+            </div>
+          </div>
+
+          <div class="jornada__item reveal">
+            <div class="jornada__dot" aria-hidden="true"></div>
+            <div class="jornada__content">
+              <h3>Banco de Dados</h3>
+              <p>SQL, MySQL, PostgreSQL e modelagem de dados</p>
+            </div>
+          </div>
+
+          <div class="jornada__item reveal">
+            <div class="jornada__dot" aria-hidden="true"></div>
+            <div class="jornada__content">
+              <h3>Segurança</h3>
+              <p>Segurança da informação, OWASP e ferramentas de análise</p>
+            </div>
+          </div>
+
+          <div class="jornada__item reveal">
+            <div class="jornada__dot" aria-hidden="true"></div>
+            <div class="jornada__content">
+              <h3>Infraestrutura / Cloud</h3>
+              <p>Redes, virtualização e fundamentos de cloud computing</p>
+            </div>
+          </div>
+
+          <div class="jornada__item reveal">
+            <div class="jornada__dot" aria-hidden="true"></div>
+            <div class="jornada__content">
+              <h3>Próxima oportunidade profissional</h3>
+              <p>Disponível para contribuir com projetos reais e evoluir na carreira</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- OBJETIVO PROFISSIONAL -->
+    <section class="section objetivo" id="objetivo">
+      <div class="section__container">
+        <h2 class="section__title reveal">Construindo minha próxima oportunidade.</h2>
+        <p class="objetivo__text reveal">Busco uma oportunidade na área de Tecnologia da Informação para colocar meus conhecimentos em prática, aprender com profissionais experientes, contribuir com projetos reais e continuar evoluindo profissionalmente.</p>
+        <div class="objetivo__areas reveal">
+          <h3>Áreas de interesse</h3>
+          <div class="objetivo__tags">
+            <span class="tag">Desenvolvimento</span>
+            <span class="tag">Front-end</span>
+            <span class="tag">Segurança da Informação</span>
+            <span class="tag">Suporte/Infraestrutura</span>
+            <span class="tag">Sistemas</span>
+            <span class="tag">Banco de Dados</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- GITHUB -->
+    <section class="section github-section" id="github">
+      <div class="section__container">
+        <div class="github-section__content reveal">
+          <h2>Meu código está no GitHub.</h2>
+          <p>Utilizo projetos pessoais e estudos práticos para transformar conhecimento em experiência e acompanhar minha evolução na área de tecnologia.</p>
+          <a href="https://github.com/ribeiros-tech" class="btn btn--primary" target="_blank" rel="noopener noreferrer" id="githubBtn">Ver GitHub</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTATO -->
+    <section class="section contato" id="contato">
+      <div class="section__container">
+        <h2 class="section__title reveal">Vamos conversar?</h2>
+        <p class="contato__text reveal">Estou aberta a oportunidades e conexões na área de Tecnologia da Informação.</p>
+        <div class="contato__grid reveal">
+          <a href="https://github.com/ribeiros-tech" class="contato__card" target="_blank" rel="noopener noreferrer" aria-label="Perfil no GitHub">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0020 4.77 5.07 5.07 0 0019.91 1S18.73.65 16 2.48a13.38 13.38 0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 005 4.77a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 009 18.13V22"/></svg>
+            <span>GitHub</span>
+          </a>
+          <a href="https://www.linkedin.com/in/vit%C3%B3ria-ribeiro-828905360" class="contato__card" target="_blank" rel="noopener noreferrer" aria-label="Perfil no LinkedIn">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+            <span>LinkedIn</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer__container">
+      <p class="footer__copy">&copy; 2026 Vitória Ribeiro. Construído com HTML, CSS e JavaScript.</p>
+      <div class="footer__links">
+        <a href="https://github.com/ribeiros-tech" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0020 4.77 5.07 5.07 0 0019.91 1S18.73.65 16 2.48a13.38 13.38 0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 005 4.77a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 009 18.13V22"/></svg>
+        </a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- BOTÃO VOLTAR AO TOPO -->
+  <button class="back-to-top" id="backToTop" aria-label="Voltar ao topo" type="button">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"/></svg>
+  </button>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
