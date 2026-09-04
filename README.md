@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Vitória Ribeiro**
 
-### 💻 Tecnologia | Desenvolvimento Web | Segurança da Informação
+###  Tecnologia | Desenvolvimento Web | Segurança da Informação
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora em formação, apaixonada por tecnologia e pelo desenvolvimento de soluções digitais.
 
@@ -20,15 +20,15 @@ Meu objetivo é transformar ideias em **sites modernos, responsivos, funcionais 
 
 Tenho interesse e experiência prática em diferentes áreas da TI, incluindo:
 
-* 🌐 **Desenvolvimento Web**
-* 🎨 **UI/UX e Design**
-* 🔐 **Segurança da Informação**
-* ☁️ **Cloud Computing**
-* 🗄️ **Banco de Dados**
-* 🐍 **Programação e Scripting**
-* 🐧 **Linux e Windows**
-* 🔧 **Git e GitHub**
-* ⚙️ **Automação e desenvolvimento de soluções**
+*  **Desenvolvimento Web**
+*  **UI/UX e Design**
+*  **Segurança da Informação**
+*  **Cloud Computing**
+*  **Banco de Dados**
+*  **Programação e Scripting**
+*  **Linux e Windows**
+*  **Git e GitHub**
+*  **Automação e desenvolvimento de soluções**
 
 ---
 
@@ -112,16 +112,16 @@ Aqui você encontrará projetos desenvolvidos para colocar em prática meus conh
 ##  Atualmente
 
 ```text
-💻 Desenvolvimento Web
+ Desenvolvimento Web
 ████████████████████  Em evolução
 
-🔐 Segurança da Informação
+ Segurança da Informação
 ███████████████  Em evolução
 
-🎨 UI/UX
+ UI/UX
 ██████████████  Em evolução
 
-☁️ Cloud Computing
+ Cloud Computing
 ███████████░░░░░░░░░░  Em evolução
 ```
 
@@ -133,7 +133,7 @@ Estou constantemente estudando, desenvolvendo projetos e buscando novas oportuni
 
 Se você é uma **empresa, recrutador ou empreendedor** procurando alguém para desenvolver um projeto ou iniciar uma parceria, entre em contato comigo.
 
-### 📬 Contato
+###  Contato
 
 <p align="left">
   <a href="https://github.com/ribeiros-tech">
@@ -155,7 +155,7 @@ Cada projeto é uma oportunidade de transformar conhecimento em algo real, funci
 ---
 
 <p align="center">
-  <strong>💻 Desenvolvendo hoje o conhecimento que vai construir o meu futuro na tecnologia.</strong>
+  <strong> Desenvolvendo hoje o conhecimento que vai construir o meu futuro na tecnologia.</strong>
 </p>
 
 <p align="center">
