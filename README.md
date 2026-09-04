@@ -9,7 +9,7 @@ Criei meu portfólio profissional para apresentar minha trajetória na **Tecnolo
 Se você é **recrutador, empresa ou empreendedor**, fique à vontade para conhecer meu trabalho e entrar em contato.
 
 <p align="center">
-  <a href="https://github.com/ribeiros-tech/portfolio/blob/main/index.html">
+  <a href=" https://ribeiros-tech.github.io/portfolio/ ">
     <img src="https://img.shields.io/badge/🌐%20ACESSAR%20MEU%20PORTFÓLIO-000000?style=for-the-badge" />
   </a>
 </p>
