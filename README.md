@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Vitória Ribeiro**
 
-### 💻 Desenvolvedora Front-End em formação | Tecnologia | Segurança da Informação
+### 💻 Tecnologia | Desenvolvimento Web | Segurança da Informação
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,11 +32,11 @@ Tenho interesse e experiência prática em diferentes áreas da TI, incluindo:
 
 ---
 
-## 💼 O que eu posso desenvolver
+## O que eu posso desenvolver
 
 > Transformo ideias em experiências digitais profissionais.
 
-### 🌐 Desenvolvimento Web
+### Desenvolvimento Web
 
 * Landing Pages
 * Sites institucionais
@@ -46,7 +46,7 @@ Tenho interesse e experiência prática em diferentes áreas da TI, incluindo:
 * Experiências interativas
 * Páginas otimizadas para desktop e mobile
 
-### 🎨 Design & Experiência
+### Design & Experiência
 
 * Interfaces modernas
 * UI/UX
@@ -56,70 +56,70 @@ Tenho interesse e experiência prática em diferentes áreas da TI, incluindo:
 * Animações
 * Experiência focada no usuário
 
-### 🔐 Tecnologia & Segurança
+### Tecnologia & Segurança
 
 Também estudo conceitos relacionados à **Segurança da Informação**, redes e infraestrutura, buscando desenvolver soluções com uma visão mais ampla sobre tecnologia e proteção de sistemas.
 
 ---
 
-## 🧠 Tecnologias & Conhecimentos
+## Tecnologias & Conhecimentos
 
-### 💻 Front-End
+### Front-End
 
 `HTML5` • `CSS3` • `JavaScript` • `Responsive Design`
 
-### ⚙️ Back-End & Banco de Dados
+###  Back-End & Banco de Dados
 
 `PHP` • `Python` • `MySQL` • `PostgreSQL` • `SQL`
 
-### 🔐 Segurança da Informação
+###  Segurança da Informação
 
 `Nmap` • `Burp Suite` • `Wireshark` • `Nessus/OpenVAS`
 
 `OWASP Top 10` • `CVE` • `CVSS` • `TCP/IP` • `DNS` • `HTTP/HTTPS`
 
-### 🛠️ Ferramentas & Sistemas
+###  Ferramentas & Sistemas
 
 `Git` • `GitHub` • `VS Code` • `Linux` • `Windows`
 
 ---
 
-## 📂 Projetos
+##  Projetos
 
 Aqui você encontrará projetos desenvolvidos para colocar em prática meus conhecimentos em:
 
-* 🌐 Desenvolvimento Front-End
-* 🎨 UI/UX
-* 📱 Responsividade
-* ⚡ JavaScript
-* 🗄️ Banco de Dados
-* 🔐 Segurança
-* 🧩 Organização de código
-* 🚀 Desenvolvimento de soluções digitais
+*  Desenvolvimento Front-End
+*  UI/UX
+*  Responsividade
+*  JavaScript
+*  Banco de Dados
+*  Segurança
+*  Organização de código
+*  Desenvolvimento de soluções digitais
 
-> 🔒 Alguns projetos desenvolvidos para empresas e clientes não são disponibilizados publicamente devido à privacidade e confidencialidade.
+>  Alguns projetos desenvolvidos para empresas e clientes não são disponibilizados publicamente devido à privacidade e confidencialidade.
 
 ---
 
-## 🎓 Formação
+##  Formação
 
-### 📚 Análise e Desenvolvimento de Sistemas
+### Análise e Desenvolvimento de Sistemas
 
 **Estudante de ADS**, com foco no desenvolvimento contínuo de conhecimentos em programação, desenvolvimento web, banco de dados, segurança e tecnologia.
 
 ---
 
-## 🎯 Atualmente
+##  Atualmente
 
 ```text
 💻 Desenvolvimento Web
-████████████████████░  Em evolução
+████████████████████  Em evolução
 
 🔐 Segurança da Informação
-███████████████░░░░░░  Em evolução
+███████████████  Em evolução
 
 🎨 UI/UX
-██████████████░░░░░░░  Em evolução
+██████████████  Em evolução
 
 ☁️ Cloud Computing
 ███████████░░░░░░░░░░  Em evolução
@@ -129,7 +129,7 @@ Estou constantemente estudando, desenvolvendo projetos e buscando novas oportuni
 
 ---
 
-## 🤝 Vamos conversar?
+## Vamos conversar?
 
 Se você é uma **empresa, recrutador ou empreendedor** procurando alguém para desenvolver um projeto ou iniciar uma parceria, entre em contato comigo.
 
@@ -146,7 +146,7 @@ Se você é uma **empresa, recrutador ou empreendedor** procurando alguém para 
 
 ---
 
-## ⚡ Filosofia
+##  Filosofia
 
 > **"Aprender. Construir. Evoluir."**
 
@@ -159,5 +159,5 @@ Cada projeto é uma oportunidade de transformar conhecimento em algo real, funci
 </p>
 
 <p align="center">
-  ⭐ Obrigada por visitar meu perfil!
+  Obrigada por visitar meu perfil!
 </p>
