@@ -1,25 +1,22 @@
 # 👋 Olá, eu sou **Vitória Ribeiro**
 
-## 🌐 Meu Portfólio
+##  Meu Portfólio
 
-### 🚀 Conheça meu trabalho
+###  Conheça meu trabalho
 
 Criei meu portfólio profissional para apresentar minha trajetória na **Tecnologia da Informação**, meus conhecimentos, habilidades e projetos desenvolvidos ao longo da minha formação.
 
 Se você é **recrutador, empresa ou empreendedor**, fique à vontade para conhecer meu trabalho e entrar em contato.
 
 <p align="center">
-  <a href="SEU-LINK-DO-PORTFOLIO">
+  <a href="https://github.com/ribeiros-tech/portfolio/blob/main/index.html">
     <img src="https://img.shields.io/badge/🌐%20ACESSAR%20MEU%20PORTFÓLIO-000000?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Tecnologia | Desenvolvimento Web | Segurança da Informação</strong>
+  <strong> Tecnologia | Desenvolvimento Web | Segurança da Informação</strong>
 </p>
-
-
-###  Tecnologia | Desenvolvimento Web | Segurança da Informação
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
